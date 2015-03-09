@@ -1,0 +1,41 @@
+{
+  "name": "grooveshark-downloader",
+  "version": "0.1.0",
+  "description": "A node.js module for getting a music streaming url from Grooveshark without any API authentication.",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Josebaseba/node-grooveshark-downloader.git"
+  },
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "async": "~0.1.22",
+    "request": "~2.16.6",
+    "cheerio": "~0.10.5",
+    "node-uuid": "~1.4.0"
+  },
+  "keywords": [
+    "grooveshark",
+    "tinysong",
+    "playlist",
+    "mp3",
+    "streaming",
+    "download",
+    "free",
+    "music"
+  ],
+  "author": {
+    "name": "Joseba Legarreta",
+    "email": "josebalega@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Taeho Kim",
+      "email": "xissysnd@gmail.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Josebaseba/node-grooveshark-downloader/issues"
+  },
+  "homepage": "https://github.com/Josebaseba/node-grooveshark-downloader"
+}

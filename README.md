@@ -2,5 +2,5 @@
 Download songs or playlist from Grooveshark to your computer
 
 ```javscript
-  npm install grooveshark-downloader
+  sudo npm install grooveshark-downloader
 ```
